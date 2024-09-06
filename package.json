@@ -1,6 +1,6 @@
 {
   "name": "@uzeen/random-number",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@Uzeen"
