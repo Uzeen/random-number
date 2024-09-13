@@ -1,6 +1,6 @@
 {
   "source": "gitHub",
-  "availableRole": ["ADMIN", "USER", "READER"]
+  "availableRole": ["ADMIN", "USER", "READER"],
   "users": [
        {
         "name": "Uzeen",
