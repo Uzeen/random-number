@@ -56,7 +56,7 @@
       "modificationDate":""
     },{
       "name": "GWU.AUTH.JWT.EXPIRY.TIME",
-      "value": "ertyujhgfd",
+      "value": "1000000",
       "isEnable": "true",
       "description" : "Time in miliseconds",
       "scope": "SERVER_TYPE",
