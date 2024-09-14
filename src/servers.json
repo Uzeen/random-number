@@ -8,5 +8,29 @@
         "token": "ertyuikjhgfcdxsdfgh",
         "role": "ADMIN"
       }
+  ],
+  "servers": [
+    {
+      "name": "Admin-app-01",
+      "appType": "CONFIG",
+      "health": "SUCCESS",
+      "ip": "10.0.0.1",
+      "httpPort": "8080",
+      "messagingPort": "8099",
+      "creationDate": "",
+      "modificationDate":"",
+      "providers": "3"
+    },
+     {
+      "name": "Admin-app-02",
+      "appType": "CONFIG",
+      "health": "PARTIAL",
+      "ip": "10.0.0.2",
+      "httpPort": "8080",
+      "messagingPort": "8090",
+      "creationDate": "",
+      "modificationDate":"",
+      "providers": "3"
+    }
   ]
 }
