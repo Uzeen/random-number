@@ -43,5 +43,26 @@
       "modificationDate":"",
       "providers": "3"
     }
+  ],
+  "properties": [
+    {
+      "name": "GWU.AUTH.JWT.KEY",
+      "value": "ertyujhgfd",
+      "isEnable": "true",
+      "description" : "",
+      "scope": "GLOBAL",
+      "validFor": "",
+      "creationDate": "",
+      "modificationDate":""
+    },{
+      "name": "GWU.AUTH.JWT.EXPIRY.TIME",
+      "value": "ertyujhgfd",
+      "isEnable": "true",
+      "description" : "Time in miliseconds",
+      "scope": "SERVER_TYPE",
+      "validFor": "CONFIG",
+      "creationDate": "",
+      "modificationDate":""
+    }
   ]
 }
