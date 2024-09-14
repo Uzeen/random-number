@@ -31,6 +31,17 @@
       "creationDate": "",
       "modificationDate":"",
       "providers": "3"
+    },
+     {
+      "name": "Admin-app-03",
+      "appType": "CONFIG",
+      "health": "FAILED",
+      "ip": "10.0.0.2",
+      "httpPort": "8080",
+      "messagingPort": "8090",
+      "creationDate": "",
+      "modificationDate":"",
+      "providers": "3"
     }
   ]
 }
